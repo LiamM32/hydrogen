@@ -75,38 +75,6 @@ p, li { white-space: pre-wrap; }
   </instrument>
   <instrument>
    <id>2</id>
-   <name>Snare Jazz</name>
-   <volume>1</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
-   <randomPitchFactor>0</randomPitchFactor>
-   <gain>1</gain>
-   <filterActive>false</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <muteGroup>-1</muteGroup>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>38</midiOutNote>
-   <isStopNote>false</isStopNote>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <layer>
-    <filename>sn_Jazz_c.flac</filename>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>3</id>
    <name>Hand Clap</name>
    <volume>0.88</volume>
    <isMuted>false</isMuted>
@@ -138,7 +106,7 @@ p, li { white-space: pre-wrap; }
    </layer>
   </instrument>
   <instrument>
-   <id>4</id>
+   <id>3</id>
    <name>Snare Rock</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
@@ -170,75 +138,11 @@ p, li { white-space: pre-wrap; }
    </layer>
   </instrument>
   <instrument>
-   <id>5</id>
-   <name>Tom Low</name>
-   <volume>0.96</volume>
-   <isMuted>false</isMuted>
-   <pan_L>0.44</pan_L>
-   <pan_R>1</pan_R>
-   <randomPitchFactor>0</randomPitchFactor>
-   <gain>1</gain>
-   <filterActive>false</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <muteGroup>-1</muteGroup>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>41</midiOutNote>
-   <isStopNote>false</isStopNote>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <layer>
-    <filename>tom_Rock_lo.flac</filename>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>6</id>
-   <name>Closed HH</name>
-   <volume>0.89</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>0.78</pan_R>
-   <randomPitchFactor>0</randomPitchFactor>
-   <gain>1</gain>
-   <filterActive>false</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <muteGroup>-1</muteGroup>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>42</midiOutNote>
-   <isStopNote>false</isStopNote>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <layer>
-    <filename>hhc_Dry_a.flac</filename>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>7</id>
-   <name>Tom Mid</name>
+   <id>4</id>
+   <name>Snare Jazz</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>0.8</pan_L>
+   <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -251,14 +155,14 @@ p, li { white-space: pre-wrap; }
    <Release>1000</Release>
    <muteGroup>-1</muteGroup>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>43</midiOutNote>
+   <midiOutNote>38</midiOutNote>
    <isStopNote>false</isStopNote>
    <FX1Level>0</FX1Level>
    <FX2Level>0</FX2Level>
    <FX3Level>0</FX3Level>
    <FX4Level>0</FX4Level>
    <layer>
-    <filename>tom_Rock_mid.flac</filename>
+    <filename>sn_Jazz_c.flac</filename>
     <min>0</min>
     <max>1</max>
     <gain>1</gain>
@@ -266,39 +170,7 @@ p, li { white-space: pre-wrap; }
    </layer>
   </instrument>
   <instrument>
-   <id>8</id>
-   <name>Pedal HH</name>
-   <volume>0.89</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>0.78</pan_R>
-   <randomPitchFactor>0</randomPitchFactor>
-   <gain>1</gain>
-   <filterActive>false</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <muteGroup>-1</muteGroup>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>44</midiOutNote>
-   <isStopNote>false</isStopNote>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <layer>
-    <filename>hhp_Dry_a.flac</filename>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>9</id>
+   <id>5</id>
    <name>Tom Hi</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
@@ -330,7 +202,71 @@ p, li { white-space: pre-wrap; }
    </layer>
   </instrument>
   <instrument>
-   <id>10</id>
+   <id>6</id>
+   <name>Tom Mid</name>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>0.8</pan_L>
+   <pan_R>1</pan_R>
+   <randomPitchFactor>0</randomPitchFactor>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <muteGroup>-1</muteGroup>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>43</midiOutNote>
+   <isStopNote>false</isStopNote>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <layer>
+    <filename>tom_Rock_mid.flac</filename>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>7</id>
+   <name>Tom Low</name>
+   <volume>0.96</volume>
+   <isMuted>false</isMuted>
+   <pan_L>0.44</pan_L>
+   <pan_R>1</pan_R>
+   <randomPitchFactor>0</randomPitchFactor>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <muteGroup>-1</muteGroup>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>41</midiOutNote>
+   <isStopNote>false</isStopNote>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <layer>
+    <filename>tom_Rock_lo.flac</filename>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>8</id>
    <name>Open HH</name>
    <volume>0.8</volume>
    <isMuted>false</isMuted>
@@ -355,6 +291,70 @@ p, li { white-space: pre-wrap; }
    <FX4Level>0</FX4Level>
    <layer>
     <filename>hhc_Rock_b.flac</filename>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>9</id>
+   <name>Closed HH</name>
+   <volume>0.89</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>0.78</pan_R>
+   <randomPitchFactor>0</randomPitchFactor>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <muteGroup>-1</muteGroup>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>42</midiOutNote>
+   <isStopNote>false</isStopNote>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <layer>
+    <filename>hhc_Dry_a.flac</filename>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>10</id>
+   <name>Pedal HH</name>
+   <volume>0.89</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>0.78</pan_R>
+   <randomPitchFactor>0</randomPitchFactor>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <muteGroup>-1</muteGroup>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>44</midiOutNote>
+   <isStopNote>false</isStopNote>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <layer>
+    <filename>hhp_Dry_a.flac</filename>
     <min>0</min>
     <max>1</max>
     <gain>1</gain>
@@ -395,6 +395,38 @@ p, li { white-space: pre-wrap; }
   </instrument>
   <instrument>
    <id>12</id>
+   <name>Ride Rock</name>
+   <volume>0.8</volume>
+   <isMuted>false</isMuted>
+   <pan_L>0.58</pan_L>
+   <pan_R>1</pan_R>
+   <randomPitchFactor>0</randomPitchFactor>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <muteGroup>-1</muteGroup>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>59</midiOutNote>
+   <isStopNote>false</isStopNote>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <layer>
+    <filename>cym_Rock_b.flac</filename>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>13</id>
    <name>Ride Jazz</name>
    <volume>0.8</volume>
    <isMuted>false</isMuted>
@@ -426,7 +458,7 @@ p, li { white-space: pre-wrap; }
    </layer>
   </instrument>
   <instrument>
-   <id>13</id>
+   <id>14</id>
    <name>Crash</name>
    <volume>0.69</volume>
    <isMuted>false</isMuted>
@@ -451,38 +483,6 @@ p, li { white-space: pre-wrap; }
    <FX4Level>0</FX4Level>
    <layer>
     <filename>cra_Rock_a.flac</filename>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>14</id>
-   <name>Ride Rock</name>
-   <volume>0.8</volume>
-   <isMuted>false</isMuted>
-   <pan_L>0.58</pan_L>
-   <pan_R>1</pan_R>
-   <randomPitchFactor>0</randomPitchFactor>
-   <gain>1</gain>
-   <filterActive>false</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <muteGroup>-1</muteGroup>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>59</midiOutNote>
-   <isStopNote>false</isStopNote>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <layer>
-    <filename>cym_Rock_b.flac</filename>
     <min>0</min>
     <max>1</max>
     <gain>1</gain>
